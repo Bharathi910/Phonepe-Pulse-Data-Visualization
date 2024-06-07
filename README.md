@@ -8,17 +8,23 @@ This project involves extracting and visualizing data from PhonePe Pulse, which 
 
 **Data Extraction:**
 Extract data from JSON files organized by states, years, and quarters.
+
 **Data Transformation:**
 Transform the data into structured pandas DataFrames.
+
 **Database Integration:**
 Insert the data into a MySQL database.
+
 **Data Visualization:**
 Use Streamlit and Plotly for interactive visualizations.
+
 **Interactive Dashboard:**
 A user-friendly interface to explore data by different dimensions like states, years, quarters, transaction types, etc.
 
 **Prerequisites**
 
-Python 3.x
+Python 3
+
 MySQL Server
+
 Required Python packages: pandas, pymysql, json, os, streamlit, plotly, requests
